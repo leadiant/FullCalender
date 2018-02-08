@@ -1,0 +1,93 @@
+<aura:component controller="fullCalendarApexController" access="global"  implements="force:appHostable,flexipage:availableForAllPageTypes">
+
+    <!-- LIBRARIES -->
+    <ltng:require styles="{!$Resource.fullCalendar + '/css/fullcalendar.min.css'}"
+        scripts="{!join(',',
+            $Resource.fullCalendar + '/lib/jquery.min.js',
+            $Resource.fullCalendar + '/lib/moment.min.js',
+            $Resource.fullCalendar + '/lib/jquery-ui.min.js',
+            $Resource.fullCalendar + '/lib/fullcalendar.min.js')}"
+        afterScriptsLoaded="{!c.jsLoaded}"/>
+
+    <!-- ATTRIBUTES -->
+    <!-- <aura:attribute name="calendarId" type="String" description="HTML Id of calendar. Used by external components to reference the calendar." default="calendar"/> -->
+    <aura:attribute type="String" name="headerDate"/>
+    <aura:attribute type="String" name="view" default="month"/>
+    <aura:attribute name="events" type="Event[]" description="A list of events to display on the calendar"/>
+    <aura:attribute name="ScheduledEvents" type="Object[]"/>
+    
+
+    <!-- EVENTS -->
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <!--
+    <aura:handler name="change" value="{!v.events}" action="{!c.loadEvents}"/>
+     -->
+
+     <aura:handler name="change" value="{!v.ScheduledEvents}" action="{!c.loadScheduledEvents}"/>
+
+    <aura:attribute  name="modal" type="Aura.Component" />
+    <aura:attribute name="addEventComponent" type="Aura.Component" />
+    <aura:attribute access="private" name="newEvent" type="Event" default="{}" description="New Event Item"  />
+    <aura:attribute access="private" name="scheduledEvent" type="Object" default="{}"/>
+    <aura:dependency resource="markup://c:addEvent" type="COMPONENT" />
+
+    <aura:attribute name="showDeleteButton" type="Boolean" default="{!false}" access="private"/>
+
+    <aura:registerEvent name="dayClickEvent" type="c:strike_evt"/>
+    <aura:handler name="dayClickEvent" event="c:strike_evt" action="{!c.handledayClickEvent}"/>
+    <aura:registerEvent name="eventClick" type="c:strike_evt"/>
+    <aura:handler name="eventClick" event="c:strike_evt" action="{!c.handleEventClick}"/>
+
+    <!-- BODY -->
+    <div class="slds slds-box slds-m-around--small">
+
+      <div class="slds-grid slds-wrap">
+        <div class="
+                slds-col
+                slds-order--3 slds-medium-order--1
+                slds-size--1-of-1 slds-medium-size--1-of-3
+                slds-p-bottom--small">
+          <lightning:buttonGroup class="">
+            <lightning:button iconName="utility:chevronleft" onclick="{!c.prev}"/>
+            <lightning:button iconName="utility:chevronright" onclick="{!c.next}"/>
+            <lightning:button label="Today" onclick="{!c.today}"/>
+          </lightning:buttonGroup>
+        </div>
+        <div class="
+                slds-col
+                slds-order--2 slds-medium-order--2
+                slds-align--absolute-center
+                slds-p-bottom--small">
+          <ui:outputText value="{!v.headerDate}"/>
+        </div>
+        <div class="
+                slds-col
+                slds-order--1 slds-medium-order--3
+                slds-size--1-of-1 slds-medium-size--1-of-3
+                slds-p-bottom--small
+                slds-p-bottom--small">
+          <lightning:buttonGroup class="slds-grid--align-end slds-wrap">
+            <lightning:button label="Month" onclick="{!c.month}" class="{! v.view == 'month' ? 'slds-button--brand' : ''}"/>
+            <lightning:button label="Week" onclick="{!c.basicWeek}" class="{! v.view == 'basicWeek' ? 'slds-button--brand' : ''}"/>
+            <lightning:button label="List Week" onclick="{!c.listWeek}" class="{! v.view == 'listWeek' ? 'slds-button--brand' : ''}"/>
+            <lightning:button label="Day" onclick="{!c.basicDay}" class="{! v.view == 'basicDay' ? 'slds-button--brand' : ''}"/>
+            <lightning:button label="List Day" onclick="{!c.listDay}" class="{! v.view == 'listDay' ? 'slds-button--brand' : ''}"/>
+          </lightning:buttonGroup>
+        </div>
+      </div>
+      <div id="calendar"/>
+    </div>
+    <!-- /BODY -->
+
+    <c:strike_modal aura:id="newEventModal" title="Create Event">
+        <aura:set attribute="footerButtons">
+            <div class="slds-modal__footer--directional">
+                <aura:if isTrue="{!v.showDeleteButton}">
+                    <lightning:button onclick="{!c.handleClickDeleteModal}" label="Delete" variant="destructive" class="slds-float--left slds-float_left"/>
+                </aura:if>
+                <lightning:button variant="neutral" label="Cancel" onclick="{!c.handleClickCancelModal}" />
+                <lightning:button variant="brand" label="Save" onclick="{!c.handleClickSave}" />
+            </div>
+        </aura:set>
+    </c:strike_modal>
+</aura:component>

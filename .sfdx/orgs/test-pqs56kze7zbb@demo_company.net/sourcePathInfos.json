@@ -1,0 +1,2037 @@
+[
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517883874666,
+            "changeTime": 1517883874666,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517883874667,
+            "changeTime": 1517883874667,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884422977,
+            "changeTime": 1517884422977,
+            "contentHash": "6aa0a702c116cf3c42dee3d744958f448da93f0b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517945393231,
+            "changeTime": 1517945393231,
+            "contentHash": "051d66279f482f4268593d4e633970715886413b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884018798,
+            "changeTime": 1517884018798,
+            "contentHash": "6287a5b4211b37108da815d4708becdfae4fe198",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.auradoc",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517884018781,
+            "changeTime": 1517884018781,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4814,
+            "modifiedTime": 1518125391246,
+            "changeTime": 1518125391246,
+            "isWorkspace": false,
+            "contentHash": "a05e490b83a8f2661b1347cd3b95e313f92f1167"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517884018779,
+            "changeTime": 1517884018779,
+            "contentHash": "5b213949d5e3ecdc91c197b1c2a06910f2227019",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.css",
+            "isDirectory": false,
+            "size": 9,
+            "modifiedTime": 1517884018787,
+            "changeTime": 1517884018787,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.design",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.design",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1517884018789,
+            "changeTime": 1517884018789,
+            "contentHash": "61aa941fc8db094fe41001f81a801c06ea3c6749",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.svg",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517884018792,
+            "changeTime": 1517884018792,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10986,
+            "modifiedTime": 1518125444912,
+            "changeTime": 1518125444912,
+            "isWorkspace": false,
+            "contentHash": "7a44b68f04835c65cfdb820a9aafd8a6f3431afa"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5607,
+            "modifiedTime": 1518125492598,
+            "changeTime": 1518125492598,
+            "isWorkspace": false,
+            "contentHash": "70cc0c88618bcafcb6a72f8a9dc86dae802b2f54"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarRenderer.js",
+            "isDirectory": false,
+            "size": 48,
+            "modifiedTime": 1517884018800,
+            "changeTime": 1517884018800,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884018818,
+            "changeTime": 1517884018818,
+            "contentHash": "3c352601aa17d175fbf263a04c6e6dd20b9a2d03",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.app",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.app",
+            "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1517884018807,
+            "changeTime": 1517884018807,
+            "contentHash": "74676c6d98aab53b552673824c108af8f6684f9d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 230,
+            "modifiedTime": 1517884018804,
+            "changeTime": 1517884018804,
+            "contentHash": "b29b551a2e296a4b7a42642dd409fd2c70c38e75",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.auradoc",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517884018810,
+            "changeTime": 1517884018810,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarApp.css",
+            "isDirectory": false,
+            "size": 9,
+            "modifiedTime": 1517884018812,
+            "changeTime": 1517884018812,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarAppController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarAppController.js",
+            "isDirectory": false,
+            "size": 57,
+            "modifiedTime": 1517884018815,
+            "changeTime": 1517884018815,
+            "contentHash": "b6617c89596c5aa5bced78088a52a8289bf4cb21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarAppHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarAppHelper.js",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1517884018817,
+            "changeTime": 1517884018817,
+            "contentHash": "82bff16b3e0b457e56a7b6c6ea32695c8ebb9d7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarAppRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarApp\\fullCalendarAppRenderer.js",
+            "isDirectory": false,
+            "size": 48,
+            "modifiedTime": 1517884018820,
+            "changeTime": 1517884018820,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884018841,
+            "changeTime": 1517884018841,
+            "contentHash": "315ed4f2c7ca82868fd5f919c40f412b8c5e4af5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.auradoc",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517884018827,
+            "changeTime": 1517884018827,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.cmp",
+            "isDirectory": false,
+            "size": 2930,
+            "modifiedTime": 1518118750562,
+            "changeTime": 1518118750562,
+            "contentHash": "52c360215208543873509e656a616d39a76d2bda",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517884018824,
+            "changeTime": 1517884018824,
+            "contentHash": "5b213949d5e3ecdc91c197b1c2a06910f2227019",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.css",
+            "isDirectory": false,
+            "size": 78,
+            "modifiedTime": 1517884018832,
+            "changeTime": 1517884018832,
+            "contentHash": "1d609b218a47739e6ccb2f40e527c796163726f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.design",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.design",
+            "isDirectory": false,
+            "size": 353,
+            "modifiedTime": 1517884018834,
+            "changeTime": 1517884018834,
+            "contentHash": "b209d8b839b72181945d0dddd672a740b3e89f0a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearchController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearchController.js",
+            "isDirectory": false,
+            "size": 849,
+            "modifiedTime": 1517884018837,
+            "changeTime": 1517884018837,
+            "contentHash": "87162c9ce303c9e72c9dfa5fe24ee9ea7fa89657",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearchHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearchHelper.js",
+            "isDirectory": false,
+            "size": 2908,
+            "modifiedTime": 1517884018840,
+            "changeTime": 1517884018840,
+            "contentHash": "36324111bf9ba8f2b950079c6607a5759c6504b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearchRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearchRenderer.js",
+            "isDirectory": false,
+            "size": 48,
+            "modifiedTime": 1517884018842,
+            "changeTime": 1517884018842,
+            "contentHash": "be4fb16cab0788e3690426cade38290457df8023",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518023552224,
+            "changeTime": 1518023552224,
+            "contentHash": "4508b4d5e7c3b3b3863a926cd4606d0daf12e24b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarServerController.cls",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarServerController.cls",
+            "isDirectory": false,
+            "size": 4354,
+            "modifiedTime": 1518030963584,
+            "changeTime": 1518030963584,
+            "contentHash": "7a77fc1f31ec8514074091c23f70c7dd44d581ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarServerController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarServerController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1517884011034,
+            "changeTime": 1517884011034,
+            "contentHash": "b2f04e173ae3fcb8d002e0a2c63d07860dbf1d04",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884011125,
+            "changeTime": 1517884011125,
+            "contentHash": "9ec81c55bb84c852af83fca1e736968c7bd2aeb4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Ingredient__c",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Ingredient__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884011074,
+            "changeTime": 1517884011074,
+            "contentHash": "56a9b28d870a95ca122d81e70d2c83bc23174c27",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Ingredient__c\\Ingredient__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Ingredient__c\\Ingredient__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2175,
+            "modifiedTime": 1517884011078,
+            "changeTime": 1517884011078,
+            "contentHash": "e2447cc2495082c13c772a80e5729e020c598c04",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Meal__c",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Meal__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884011093,
+            "changeTime": 1517884011093,
+            "contentHash": "f747eeede06bf8cab1899ea18d2f6d08f82e4fec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Meal__c\\Meal__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Meal__c\\Meal__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2122,
+            "modifiedTime": 1517884011097,
+            "changeTime": 1517884011097,
+            "contentHash": "aa4c16ca366bf140f3e5d5eb728bed8a599b466b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Menu__c",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Menu__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884011111,
+            "changeTime": 1517884011111,
+            "contentHash": "39190f6ff50b9e5531f58e38aaeb188e024b6261",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Menu__c\\Menu__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Menu__c\\Menu__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2122,
+            "modifiedTime": 1517884011116,
+            "changeTime": 1517884011116,
+            "contentHash": "c18983c06715c8e12eb4b993ad55dae53442b154",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Recipe__c",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Recipe__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884011130,
+            "changeTime": 1517884011130,
+            "contentHash": "5b221b5dcc42fc64984edde29c2398350c2a758d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Recipe__c\\Recipe__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\objects\\Recipe__c\\Recipe__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2128,
+            "modifiedTime": 1517884011133,
+            "changeTime": 1517884011133,
+            "contentHash": "2d6bf4f5693d73d6bbca76f0f999624daa039775",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517884015435,
+            "changeTime": 1517884015435,
+            "contentHash": "dd5158b6e3d9aad49c980cc3bf2630f37241c2c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517941781249,
+            "changeTime": 1517941781249,
+            "contentHash": "ef65e0e7cc30c40cbf0ea051b8808fe5f799131c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1517884011143,
+            "changeTime": 1517884011143,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1518119253658,
+            "changeTime": 1518119253658,
+            "contentHash": "aeef2c12ce6e7b39fb504f4bb604595bd05a7f33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517941773680,
+            "changeTime": 1517941773680,
+            "contentHash": "e3026e09cb20e00cf809875a2d310288d537b381",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517941781249,
+            "changeTime": 1517941781249,
+            "contentHash": "21eeee74ee8347c54804464cbee40219162d3c23",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css\\fullcalendar.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css\\fullcalendar.css",
+            "isDirectory": false,
+            "size": 33314,
+            "modifiedTime": 1517941734994,
+            "changeTime": 1517941734995,
+            "contentHash": "ad654ea9da27d0edaaed14202d22e8a3fe7ba340",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css\\fullcalendar.min.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css\\fullcalendar.min.css",
+            "isDirectory": false,
+            "size": 15686,
+            "modifiedTime": 1517941739902,
+            "changeTime": 1517941739903,
+            "contentHash": "5d09e40d1ad80629001d776a0b0afa7b22f4f0d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css\\fullcalendar.print.min.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\css\\fullcalendar.print.min.css",
+            "isDirectory": false,
+            "size": 1997,
+            "modifiedTime": 1517941773681,
+            "changeTime": 1517941773682,
+            "contentHash": "dcd6e0b0fb16abd681fc27e75215a310502f8fa1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\fullcalendar.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\fullcalendar.js",
+            "isDirectory": false,
+            "size": 621663,
+            "modifiedTime": 1517941761364,
+            "changeTime": 1517941761365,
+            "contentHash": "5bf1856ce3ec51a5e36576cdc1ac708b916013bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\fullcalendar.min.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\fullcalendar.min.js",
+            "isDirectory": false,
+            "size": 212635,
+            "modifiedTime": 1517941763377,
+            "changeTime": 1517941763378,
+            "contentHash": "d9ec0f1f8a094e39f5e2a81eef76886ead5af7fd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\fullcalendar.print.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\fullcalendar.print.css",
+            "isDirectory": false,
+            "size": 5577,
+            "modifiedTime": 1517941765528,
+            "changeTime": 1517941765529,
+            "contentHash": "cd6aa9408cc8c222c18fe947f69c87a8e9443b7c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\jquery-ui.min.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\jquery-ui.min.js",
+            "isDirectory": false,
+            "size": 253669,
+            "modifiedTime": 1517941776971,
+            "changeTime": 1517941776971,
+            "contentHash": "78489e580adaef931e6e5b131dab556c397e4a1a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\jquery.min.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\jquery.min.js",
+            "isDirectory": false,
+            "size": 86927,
+            "modifiedTime": 1517941778889,
+            "changeTime": 1517941778890,
+            "contentHash": "0dc32db4aa9c5f03f3b38c47d883dbd4fed13aae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\moment.min.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\staticresources\\fullCalendar\\lib\\moment.min.js",
+            "isDirectory": false,
+            "size": 51599,
+            "modifiedTime": 1517941781250,
+            "changeTime": 1517941781251,
+            "contentHash": "91a29a02cca99f32598f7b5764c610ab3cc89fba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\defaultTokens",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\defaultTokens",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944979714,
+            "changeTime": 1517944980323,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944979729,
+            "changeTime": 1517944980323,
+            "contentHash": "37ebaf01e064fe8625ce0e9ea1aa05772178dadc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944979807,
+            "changeTime": 1517944980323,
+            "contentHash": "2f6a5621fa319d035ad1cabd4066c100d23e6842",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_evt",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_evt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944979839,
+            "changeTime": 1517944980323,
+            "contentHash": "577ad48e6b8ae8c07687836d4528eac5a9d11f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944979901,
+            "changeTime": 1517944980323,
+            "contentHash": "b3b563642ea8e2946cc3b5d249aad6560f2af890",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944979964,
+            "changeTime": 1517944980339,
+            "contentHash": "0d23c5de0d31538a84ed3fb2a024ec9a7acc192c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944980011,
+            "changeTime": 1517944980339,
+            "contentHash": "e42dd8f95e99f5fc121a31572066251ae76569a1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944980073,
+            "changeTime": 1517944980339,
+            "contentHash": "07facf06cd694dae7c901f2f6d5003aa13cdae9f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944980136,
+            "changeTime": 1517944980339,
+            "contentHash": "809f6c02db5f8dd1f2dfa1418320bf0a3bce7e35",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944980183,
+            "changeTime": 1517944980339,
+            "contentHash": "66bc6d13177f040ff7a8395ae58028ba16868ca6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944980214,
+            "changeTime": 1517944980355,
+            "contentHash": "6cfebd237963e137e8e9d2029428b2bed866c873",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944980276,
+            "changeTime": 1517944980355,
+            "contentHash": "3436907144c360261f90944ac252dad407c01f6a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517944980292,
+            "changeTime": 1517944980355,
+            "contentHash": "c4cca5fbe964c23dad0558f870a8430e0aa83d6b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 2567,
+            "modifiedTime": 1517508462281,
+            "changeTime": 1517508534828,
+            "contentHash": "bd51df96e7664a7df517415e34a8162c387d5aad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508462306,
+            "changeTime": 1517508534844,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner\\Spinner.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner\\Spinner.cmp",
+            "isDirectory": false,
+            "size": 523,
+            "modifiedTime": 1516907463315,
+            "changeTime": 1516907463315,
+            "contentHash": "145339804c05db48932192b36caad70ad37f46ca",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner\\Spinner.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner\\Spinner.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1516907463315,
+            "changeTime": 1516907463315,
+            "contentHash": "d3be52c38caf790760a95af23aa5a25790375bd0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner\\SpinnerController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\Spinner\\SpinnerController.js",
+            "isDirectory": false,
+            "size": 624,
+            "modifiedTime": 1516907463330,
+            "changeTime": 1516907463330,
+            "contentHash": "806c6e76739678525d3f7a0b03440afedc7e35e7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepicker.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepicker.cmp",
+            "isDirectory": false,
+            "size": 11897,
+            "modifiedTime": 1517508462757,
+            "changeTime": 1517508549003,
+            "contentHash": "91a42a26da529aafcefa5f9773ee8065c65ab9cb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepicker.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepicker.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508462775,
+            "changeTime": 1517508549016,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepicker.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepicker.css",
+            "isDirectory": false,
+            "size": 5708,
+            "modifiedTime": 1517508462795,
+            "changeTime": 1517508549029,
+            "contentHash": "6b42a78e3fa65ea8db91ab30960096b9de9351ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepickerController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepickerController.js",
+            "isDirectory": false,
+            "size": 10307,
+            "modifiedTime": 1517508462810,
+            "changeTime": 1517508549038,
+            "contentHash": "9a78d3a3af8c44fca5bc445e8e425eac0373c9ea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepickerHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepickerHelper.js",
+            "isDirectory": false,
+            "size": 14500,
+            "modifiedTime": 1517508462824,
+            "changeTime": 1517508549045,
+            "contentHash": "bcc2292335a28b3a9e677f261dc2ce8bdacdcb82",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepickerRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_datepicker\\strike_datepickerRenderer.js",
+            "isDirectory": false,
+            "size": 1788,
+            "modifiedTime": 1517508462839,
+            "changeTime": 1517508549052,
+            "contentHash": "b6996aa6b6835f198ff9382d94262f42d5968807",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_evt\\strike_evt.evt",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_evt\\strike_evt.evt",
+            "isDirectory": false,
+            "size": 1763,
+            "modifiedTime": 1517508462858,
+            "changeTime": 1517508556178,
+            "contentHash": "33ee9aeaddbee4f1e796babb8e886e334b61b2d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_evt\\strike_evt.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_evt\\strike_evt.evt-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1517508462878,
+            "changeTime": 1517508556186,
+            "contentHash": "f7ee9cb8389c90e583a6a36dea2316c49f4541a6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.cmp",
+            "isDirectory": false,
+            "size": 14786,
+            "modifiedTime": 1517508462899,
+            "changeTime": 1517508564696,
+            "contentHash": "46bc6354b2d2230c1d0dc505df46dcee812360f1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508462919,
+            "changeTime": 1517508564708,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.css",
+            "isDirectory": false,
+            "size": 2749,
+            "modifiedTime": 1517508462939,
+            "changeTime": 1517508564721,
+            "contentHash": "a67b5043b2a5908311c52e905a8ddffe2efbea99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.svg",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_input.svg",
+            "isDirectory": false,
+            "size": 212,
+            "modifiedTime": 1516907463409,
+            "changeTime": 1516907463409,
+            "contentHash": "2d1390d27dbe73c57fe4cdd943927ac4354fd53b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_inputController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_inputController.js",
+            "isDirectory": false,
+            "size": 5649,
+            "modifiedTime": 1517508462954,
+            "changeTime": 1517508564730,
+            "contentHash": "e623cd09f46a595c9708c76b34d03e5a9623e847",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_inputHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_input\\strike_inputHelper.js",
+            "isDirectory": false,
+            "size": 3093,
+            "modifiedTime": 1517508462969,
+            "changeTime": 1517508564738,
+            "contentHash": "130c72548c7b550e4a1f6a3a69065c00b68946c9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.auradoc",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1516907463409,
+            "changeTime": 1516907463409,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.cmp",
+            "isDirectory": false,
+            "size": 16534,
+            "modifiedTime": 1517508907090,
+            "changeTime": 1517508907090,
+            "contentHash": "b104db71f04c9e93e350df170249e5fd07623e27",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508463010,
+            "changeTime": 1517508572318,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookup.css",
+            "isDirectory": false,
+            "size": 7050,
+            "modifiedTime": 1517508463031,
+            "changeTime": 1517508572329,
+            "contentHash": "c0c1378d3d915bab8a1581547f50b96967adaecf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookupController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookupController.js",
+            "isDirectory": false,
+            "size": 9207,
+            "modifiedTime": 1517508463056,
+            "changeTime": 1517508572340,
+            "contentHash": "8ce5bc798d8285503673575d7ad993bb21e9e6ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookupHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookupHelper.js",
+            "isDirectory": false,
+            "size": 11772,
+            "modifiedTime": 1517508463071,
+            "changeTime": 1517508572349,
+            "contentHash": "70b53efc4788e4693adab0ca02d04a7f87d5e4d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookupRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_lookup\\strike_lookupRenderer.js",
+            "isDirectory": false,
+            "size": 1781,
+            "modifiedTime": 1517508463087,
+            "changeTime": 1517508572358,
+            "contentHash": "0f8f1bc86005ffc881b37e8b051b7ece50073336",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modal.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modal.cmp",
+            "isDirectory": false,
+            "size": 5699,
+            "modifiedTime": 1517508463109,
+            "changeTime": 1517508579675,
+            "contentHash": "fa7d8580161591b83638d7b34683f64c762d3ecc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modal.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modal.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508463132,
+            "changeTime": 1517508579696,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modalController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modalController.js",
+            "isDirectory": false,
+            "size": 3650,
+            "modifiedTime": 1517508463151,
+            "changeTime": 1517508579708,
+            "contentHash": "21dd41d0a28ead628ba55d5455e820bbaf77d493",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modalHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modalHelper.js",
+            "isDirectory": false,
+            "size": 3231,
+            "modifiedTime": 1517508463169,
+            "changeTime": 1517508579717,
+            "contentHash": "56c85196ddf327765f01afe5da647fc8af77aebd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modalRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_modal\\strike_modalRenderer.js",
+            "isDirectory": false,
+            "size": 1784,
+            "modifiedTime": 1517508463188,
+            "changeTime": 1517508579726,
+            "contentHash": "f14214253df797e0eba9966ed8cc9d5bd2c6c0b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.auradoc",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1516907463440,
+            "changeTime": 1516907463440,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.cmp",
+            "isDirectory": false,
+            "size": 10921,
+            "modifiedTime": 1517508463334,
+            "changeTime": 1517508588273,
+            "contentHash": "f3685981a0a19189c8f4bc356b3b078de3d3747c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508463358,
+            "changeTime": 1517508588280,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklist.css",
+            "isDirectory": false,
+            "size": 3464,
+            "modifiedTime": 1517508463380,
+            "changeTime": 1517508588288,
+            "contentHash": "7caa92f7eb55617f233ef988ba8cd74d15fa0491",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklistController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklistController.js",
+            "isDirectory": false,
+            "size": 6512,
+            "modifiedTime": 1517508463398,
+            "changeTime": 1517508588296,
+            "contentHash": "91e8f97b1e2f3ffcd16e8f401e36cb0560781cd9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklistHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklistHelper.js",
+            "isDirectory": false,
+            "size": 15354,
+            "modifiedTime": 1517508463414,
+            "changeTime": 1517508588304,
+            "contentHash": "069bc7e6d96d78982e4ccced772609f273b74203",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklistRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_multiSelectPicklist\\strike_multiSelectPicklistRenderer.js",
+            "isDirectory": false,
+            "size": 1783,
+            "modifiedTime": 1517508463429,
+            "changeTime": 1517508588312,
+            "contentHash": "6f25d262e1f889b3db13ebf44dd16b2fc83de40d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_option.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_option.cmp",
+            "isDirectory": false,
+            "size": 4435,
+            "modifiedTime": 1517508463450,
+            "changeTime": 1517508596112,
+            "contentHash": "23f53021d92cfe183a0c664072afbc2ee9056c65",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_option.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_option.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508463468,
+            "changeTime": 1517508596121,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_option.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_option.css",
+            "isDirectory": false,
+            "size": 2020,
+            "modifiedTime": 1517508463488,
+            "changeTime": 1517508596129,
+            "contentHash": "cbff05cabbe5f791e542246e8c486e5ad01f4b97",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_optionController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_optionController.js",
+            "isDirectory": false,
+            "size": 3580,
+            "modifiedTime": 1517508463504,
+            "changeTime": 1517508596140,
+            "contentHash": "2f08a3db1c62a961db90178e406ec73a2c8251ea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_optionHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_option\\strike_optionHelper.js",
+            "isDirectory": false,
+            "size": 2193,
+            "modifiedTime": 1517508463518,
+            "changeTime": 1517508596149,
+            "contentHash": "ca62197151290fdcbfd63ec16f33f38712a14a4b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pill.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pill.cmp",
+            "isDirectory": false,
+            "size": 6816,
+            "modifiedTime": 1517508463941,
+            "changeTime": 1517508602018,
+            "contentHash": "cbcabe878c609be00a2f376f0f1224b07407cfa3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pill.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pill.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508463964,
+            "changeTime": 1517508602034,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pill.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pill.css",
+            "isDirectory": false,
+            "size": 1900,
+            "modifiedTime": 1517508463985,
+            "changeTime": 1517508602047,
+            "contentHash": "f0a8b86ebbafcbcd50a3a7051ae96a5df62a1535",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pillController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pillController.js",
+            "isDirectory": false,
+            "size": 2064,
+            "modifiedTime": 1517508464001,
+            "changeTime": 1517508602054,
+            "contentHash": "fb254b93fa03a1998158f4185fe6d203064f8541",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pillHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_pill\\strike_pillHelper.js",
+            "isDirectory": false,
+            "size": 1954,
+            "modifiedTime": 1517508464018,
+            "changeTime": 1517508602062,
+            "contentHash": "a62446a61e621cc524a00af8ab7dbcf68444380c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg\\strike_svg.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg\\strike_svg.cmp",
+            "isDirectory": false,
+            "size": 2128,
+            "modifiedTime": 1517508464457,
+            "changeTime": 1517508607956,
+            "contentHash": "58ed1b2440fad8cefade67e76f050ae69ea947e9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg\\strike_svg.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg\\strike_svg.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508464477,
+            "changeTime": 1517508607972,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg\\strike_svgRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_svg\\strike_svgRenderer.js",
+            "isDirectory": false,
+            "size": 2776,
+            "modifiedTime": 1517508464492,
+            "changeTime": 1517508607986,
+            "contentHash": "6666f4852e7ba884f239137fe19d604e3bc6966b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltip.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltip.cmp",
+            "isDirectory": false,
+            "size": 3005,
+            "modifiedTime": 1517508464691,
+            "changeTime": 1517508617077,
+            "contentHash": "20c81b070f2af567dcbfc4de7e746391a501ffe7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltip.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltip.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1517508464710,
+            "changeTime": 1517508617095,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltip.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltip.css",
+            "isDirectory": false,
+            "size": 2002,
+            "modifiedTime": 1517508464729,
+            "changeTime": 1517508617108,
+            "contentHash": "2ee256b6f480f3b3f679afe36868609d8ad20592",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltipController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltipController.js",
+            "isDirectory": false,
+            "size": 2568,
+            "modifiedTime": 1517508464745,
+            "changeTime": 1517508617116,
+            "contentHash": "ae66a5ccd9bd160d270506a8f5e52d622a3af1e8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltipHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\strike_tooltip\\strike_tooltipHelper.js",
+            "isDirectory": false,
+            "size": 7804,
+            "modifiedTime": 1517508464759,
+            "changeTime": 1517508617123,
+            "contentHash": "3ae1a3335c762be1026cb136be3e5650abea84e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster\\toaster.cmp",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster\\toaster.cmp",
+            "isDirectory": false,
+            "size": 343,
+            "modifiedTime": 1516907463502,
+            "changeTime": 1516907463502,
+            "contentHash": "06e79fc3a3573b6f50861ed0978273b1b45d7444",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster\\toaster.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster\\toaster.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1516907463502,
+            "changeTime": 1516907463502,
+            "contentHash": "d3be52c38caf790760a95af23aa5a25790375bd0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster\\toasterController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\toaster\\toasterController.js",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1516907463502,
+            "changeTime": 1516907463502,
+            "contentHash": "b04427f4836dbb568492e36cdb4f17ef94d25efe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_lookupController.cls",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_lookupController.cls",
+            "isDirectory": false,
+            "size": 10592,
+            "modifiedTime": 1517508464777,
+            "changeTime": 1517508670644,
+            "contentHash": "761940abce528071c9ba65899b2316e0e31bee37",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_lookupController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_lookupController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1517508464797,
+            "changeTime": 1517508670651,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_responseData.cls",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_responseData.cls",
+            "isDirectory": false,
+            "size": 2330,
+            "modifiedTime": 1517508464813,
+            "changeTime": 1517508670659,
+            "contentHash": "a616477613ab364e1f2e6ac19904727da7976f8f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_responseData.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_responseData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1517508464833,
+            "changeTime": 1517508670667,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_tst_lookupController.cls",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_tst_lookupController.cls",
+            "isDirectory": false,
+            "size": 6916,
+            "modifiedTime": 1517508464848,
+            "changeTime": 1517508669143,
+            "contentHash": "b01b3d9784312ca46dbd9ecb5123dd3e7eae410b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_tst_lookupController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_tst_lookupController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1517508464867,
+            "changeTime": 1517508669147,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_utilities.cls",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_utilities.cls",
+            "isDirectory": false,
+            "size": 2566,
+            "modifiedTime": 1517508464881,
+            "changeTime": 1517508670675,
+            "contentHash": "6f55d561fe50fcff0c92d811c1e94a0b89fccac9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_utilities.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_utilities.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1517508464899,
+            "changeTime": 1517508670682,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517945393255,
+            "changeTime": 1517945393255,
+            "contentHash": "7bbc4434523ea2c5ae348d957e41f30b4795f5cc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.auradoc",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517945393254,
+            "changeTime": 1517945393254,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1195,
+            "modifiedTime": 1518125526164,
+            "changeTime": 1518125526164,
+            "contentHash": "10996a4b7c089a9f959d8f94d4e827a7e0472f5d"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1517971447007,
+            "changeTime": 1517971447007,
+            "contentHash": "cdc05aad60224021bde0bf528e5f35ed1e389c89",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.css",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1517945393246,
+            "changeTime": 1517945393246,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.design",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1517945393257,
+            "changeTime": 1517945393257,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.svg",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517945393251,
+            "changeTime": 1517945393251,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEventController.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEventController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1517945393240,
+            "changeTime": 1517945393240,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEventHelper.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEventHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1517945393243,
+            "changeTime": 1517945393243,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEventRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEventRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1517945393248,
+            "changeTime": 1517945393248,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarApexController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarApexController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3806,
+            "modifiedTime": 1518125356793,
+            "changeTime": 1518125356793,
+            "contentHash": "46dbf72db5888215f1bd9b8f758c9a94bbc904c8"
+        }
+    ],
+    [
+        "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarApexController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarApexController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1518023552225,
+            "changeTime": 1518023552225,
+            "contentHash": "f0fec4ca2029ae743c53af966f2d4fd170901a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

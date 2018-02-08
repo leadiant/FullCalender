@@ -1,0 +1,7 @@
+<aura:component >
+    <aura:method access="public" name="show" action="{!c.showToaster}">
+        <aura:attribute access="public" name="title" type="String" />
+        <aura:attribute access="public" name="type" type="String" />
+        <aura:attribute access="public" name="message" type="String" />
+    </aura:method>
+</aura:component>
