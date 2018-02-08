@@ -95,11 +95,11 @@
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 4814,
-            "modifiedTime": 1518125391246,
-            "changeTime": 1518125391246,
+            "size": 5028,
+            "modifiedTime": 1518126487895,
+            "changeTime": 1518126487895,
             "isWorkspace": false,
-            "contentHash": "a05e490b83a8f2661b1347cd3b95e313f92f1167"
+            "contentHash": "9e41b36c432a580214eb0ab3ee32a2b3685b743d"
         }
     ],
     [
@@ -165,29 +165,29 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
             "isDirectory": false,
+            "size": 11068,
+            "modifiedTime": 1518126260740,
+            "changeTime": 1518126260740,
+            "contentHash": "3f0720b4e3385132e8ae73716d23c345534a3104",
             "isMetadataFile": false,
-            "size": 10986,
-            "modifiedTime": 1518125444912,
-            "changeTime": 1518125444912,
-            "isWorkspace": false,
-            "contentHash": "7a44b68f04835c65cfdb820a9aafd8a6f3431afa"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 5607,
             "modifiedTime": 1518125492598,
             "changeTime": 1518125492598,
-            "isWorkspace": false,
-            "contentHash": "70cc0c88618bcafcb6a72f8a9dc86dae802b2f54"
+            "contentHash": "70cc0c88618bcafcb6a72f8a9dc86dae802b2f54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -687,9 +687,9 @@
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1518119253658,
-            "changeTime": 1518119253658,
-            "contentHash": "aeef2c12ce6e7b39fb504f4bb604595bd05a7f33",
+            "modifiedTime": 1518125893449,
+            "changeTime": 1518125893449,
+            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
@@ -1907,14 +1907,14 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1195,
             "modifiedTime": 1518125526164,
             "changeTime": 1518125526164,
-            "contentHash": "10996a4b7c089a9f959d8f94d4e827a7e0472f5d"
+            "contentHash": "10996a4b7c089a9f959d8f94d4e827a7e0472f5d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2011,14 +2011,14 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarApexController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarApexController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3806,
             "modifiedTime": 1518125356793,
             "changeTime": 1518125356793,
-            "contentHash": "46dbf72db5888215f1bd9b8f758c9a94bbc904c8"
+            "contentHash": "46dbf72db5888215f1bd9b8f758c9a94bbc904c8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [

@@ -30,6 +30,8 @@
     <aura:attribute access="private" name="newEvent" type="Event" default="{}" description="New Event Item"  />
     <aura:attribute access="private" name="scheduledEvent" type="Object" default="{}"/>
     <aura:dependency resource="markup://c:addEvent" type="COMPONENT" />
+    <aura:dependency resource="markup://c:toaster" type="COMPONENT" />
+    <aura:dependency resource="markup://c:Spinner" type="COMPONENT" />
 
     <aura:attribute name="showDeleteButton" type="Boolean" default="{!false}" access="private"/>
 
@@ -90,4 +92,6 @@
             </div>
         </aura:set>
     </c:strike_modal>
+    <c:toaster aura:id="toaster" />
+    <c:Spinner aura:id="spinner" />
 </aura:component>

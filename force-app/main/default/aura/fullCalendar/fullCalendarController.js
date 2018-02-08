@@ -1,6 +1,5 @@
 ({
 	doInit : function(cmp,evt,hlp) {
-		// hlp.getEvents(cmp);
 		cmp.set("v.modal", cmp.find("newEventModal"));
 	},
 	prev : function(cmp, evt, hlp) {
@@ -57,11 +56,11 @@
 				}
             }
             else if (component.isValid() && state === "ERROR") {
-//                helper.showErrors(component, response.getError());
+				component.find('toaster').show('Failed!', 'failure', 'There was a problem logging your Event. Please contact HelpDesk.');
             }
-//			component.find("spinner").hide();
+			component.find("spinner").hide();
         });
-  //      component.find("spinner").show();
+        component.find("spinner").show();
         $A.enqueueAction(action); 
 		
 
@@ -84,11 +83,11 @@
 				}
             }
             else if (component.isValid() && state === "ERROR") {
-//                helper.showErrors(component, response.getError());
+				component.find('toaster').show('Failed!', 'failure', 'There was a problem Deleting your Event. Please contact HelpDesk.');
             }
-//			component.find("spinner").hide();
+			component.find("spinner").hide();
         });
-  //      component.find("spinner").show();
+        component.find("spinner").show();
         $A.enqueueAction(action); 
 		
 
