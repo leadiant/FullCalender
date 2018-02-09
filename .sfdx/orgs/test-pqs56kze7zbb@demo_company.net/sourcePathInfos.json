@@ -93,10 +93,10 @@
         {
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
             "isDirectory": false,
-            "size": 4569,
-            "modifiedTime": 1518145086059,
-            "changeTime": 1518145086059,
-            "contentHash": "6ae666a3ee3b20d2b8dbb098a7cceab9dfd7fad1",
+            "size": 4721,
+            "modifiedTime": 1518146026400,
+            "changeTime": 1518146026400,
+            "contentHash": "0b132556522c4d5df75dbf8d48f73ee91cb188a4",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -169,11 +169,11 @@
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 6341,
-            "modifiedTime": 1518145325325,
-            "changeTime": 1518145325325,
+            "size": 7245,
+            "modifiedTime": 1518149485407,
+            "changeTime": 1518149485409,
             "isWorkspace": false,
-            "contentHash": "f0038e7e63d44be8efdee1563fb745c921980fb0"
+            "contentHash": "214b0bd8e2fe66c9679c04f19b9e161500fbb3e2"
         }
     ],
     [
@@ -181,10 +181,10 @@
         {
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarHelper.js",
             "isDirectory": false,
-            "size": 5607,
-            "modifiedTime": 1518125492598,
-            "changeTime": 1518125492598,
-            "contentHash": "70cc0c88618bcafcb6a72f8a9dc86dae802b2f54",
+            "size": 6563,
+            "modifiedTime": 1518148612482,
+            "changeTime": 1518148612482,
+            "contentHash": "d5f84163ffd63473e9ed2ed13f29fb3e4c9cd51a",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false

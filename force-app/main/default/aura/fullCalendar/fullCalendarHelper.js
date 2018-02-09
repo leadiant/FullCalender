@@ -87,6 +87,30 @@
 		console.log('event',event);
 		return event;
 	},
+
+	saveEvent:function (component, event, helper) {
+		var action = component.get("c.upsertEvent");
+		action.setParam("jsonString", JSON.stringify(component.get("v.scheduledEvent")));
+		action.setCallback(this, function (response) {
+			var state = response.getState();
+			if (component.isValid() && state === "SUCCESS") {
+				var returnValue = JSON.parse(response.getReturnValue());
+				if (returnValue.isSuccess) {
+					component.set('v.ScheduledEvents', returnValue.results.data);
+					$('#calendar').fullCalendar('removeEvents');
+					$('#calendar').fullCalendar('addEventSource', returnValue.results.data);
+					component.get("v.modal").hide();
+				}
+			}
+			else if (component.isValid() && state === "ERROR") {
+				component.find('toaster').show('Failed!', 'failure', 'There was a problem logging your Event. Please contact HelpDesk.');
+			}
+			component.find("spinner").hide();
+		});
+		component.find("spinner").show();
+		$A.enqueueAction(action);
+	},
+
 	createEvent: function(cmp,hlp,date) {
 		// Cannot use `e.force:createRecord` to pre-populate record
 		// Must use a custom action

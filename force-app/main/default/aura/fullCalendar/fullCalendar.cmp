@@ -31,6 +31,9 @@
     <aura:registerEvent name="eventClick" type="c:strike_evt"/>
     <aura:handler name="eventClick" event="c:strike_evt" action="{!c.handleEventClick}"/>
 
+    <aura:registerEvent name="eventDrop" type="c:strike_evt"/>
+    <aura:handler name="eventDrop" event="c:strike_evt" action="{!c.handleEventDrop}"/>
+
     <!-- BODY -->
     <div class="slds slds-box slds-m-around--small">
 
