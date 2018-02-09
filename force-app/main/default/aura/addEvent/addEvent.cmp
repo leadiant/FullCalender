@@ -1,17 +1,18 @@
 <aura:component>
-    <aura:attribute access="public" name="scheduledEvent" type="Object" required="true"/>
- <div class="slds-form slds-form--stacked" id="add-event-form">
-            <ui:inputText aura:id="title" label="Title" value="{!v.scheduledEvent.title}" required="true"/>    
-            <c:strike_lookup  aura:id="contactLookup" label="Contact:"
-                object="Contact" value="{!v.scheduledEvent.contactId}" valueSublabel="{!v.selectedAccountName}" searchField="Name"
-                placeholder="Please enter minimum of two characters" iconName="standard:contact" subtitleField="Account.Name"
-                order="Name" limit="5" loadingMessage="Loading..." required="true" errorMessage="Invalid input" showRecentRecords="true"
-            />
+    <aura:attribute access="public" name="scheduledEvent" type="Object" required="true" />
+    <div class="slds-form slds-form--stacked" id="add-event-form">
+        <ui:inputText aura:id="title" label="Title" value="{!v.scheduledEvent.title}" required="true" />
+        <c:strike_lookup aura:id="contactLookup" label="Contact:" object="Contact" value="{!v.scheduledEvent.contactId}" valueSublabel="{!v.selectedAccountName}"
+            searchField="Name" placeholder="Please enter minimum of two characters" iconName="standard:contact" subtitleField="Account.Name"
+            order="Name" limit="5" loadingMessage="Loading..." required="true" errorMessage="Invalid input" showRecentRecords="true"
+        />
 
-    <ui:inputTextArea aura:id="description" label="Description" value="{!v.scheduledEvent.description}" rows="5"/>
+        <ui:inputTextArea aura:id="description" label="Description" value="{!v.scheduledEvent.description}" rows="5" />
 
-<ui:inputDateTime aura:id="startTime" label="Start Time"   value="{!v.scheduledEvent.start}" displayDatePicker="true" required="true" />
-                    
-<ui:inputDateTime aura:id="endTime" label="End Time"   value="{!v.scheduledEvent.end}" displayDatePicker="true" required="true" />
-</div>
-</aura:component>	
+        <ui:inputDateTime aura:id="startTime" label="Start Time" value="{!v.scheduledEvent.start}" displayDatePicker="true" required="true"
+        />
+
+        <ui:inputDateTime aura:id="endTime" label="End Time" value="{!v.scheduledEvent.end}" displayDatePicker="true" required="true"
+        />
+    </div>
+</aura:component>

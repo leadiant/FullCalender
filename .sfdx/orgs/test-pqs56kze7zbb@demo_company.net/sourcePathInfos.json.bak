@@ -91,15 +91,15 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
             "isDirectory": false,
+            "size": 4569,
+            "modifiedTime": 1518145086059,
+            "changeTime": 1518145086059,
+            "contentHash": "6ae666a3ee3b20d2b8dbb098a7cceab9dfd7fad1",
             "isMetadataFile": false,
-            "size": 4885,
-            "modifiedTime": 1518126367234,
-            "changeTime": 1518126367234,
-            "isWorkspace": false,
-            "contentHash": "23d47adc4741a2bbdd227908b59d671c518fba1c"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -165,15 +165,15 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
             "isDirectory": false,
-            "size": 11068,
-            "modifiedTime": 1518126260740,
-            "changeTime": 1518126260740,
-            "contentHash": "3f0720b4e3385132e8ae73716d23c345534a3104",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 6492,
+            "modifiedTime": 1518145178023,
+            "changeTime": 1518145178023,
+            "isWorkspace": false,
+            "contentHash": "175735effc2ce5aab912ec4f6246411e3c241754"
         }
     ],
     [
@@ -1909,10 +1909,10 @@
         {
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\addEvent\\addEvent.cmp",
             "isDirectory": false,
-            "size": 1195,
-            "modifiedTime": 1518125526164,
-            "changeTime": 1518125526164,
-            "contentHash": "10996a4b7c089a9f959d8f94d4e827a7e0472f5d",
+            "size": 1174,
+            "modifiedTime": 1518126917946,
+            "changeTime": 1518126917946,
+            "contentHash": "f88ca77935e6cdf7fe163004be01177e8d344a7c",
             "isMetadataFile": false,
             "state": "u"
         }

@@ -10,31 +10,22 @@
         afterScriptsLoaded="{!c.jsLoaded}"/>
 
     <!-- ATTRIBUTES -->
-    <!-- <aura:attribute name="calendarId" type="String" description="HTML Id of calendar. Used by external components to reference the calendar." default="calendar"/> -->
     <aura:attribute type="String" name="headerDate"/>
     <aura:attribute type="String" name="view" default="month"/>
     <aura:attribute name="events" type="Event[]" description="A list of events to display on the calendar"/>
     <aura:attribute name="ScheduledEvents" type="Object[]"/>
-    
-
-    <!-- EVENTS -->
-    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
-    <!--
-    <aura:handler name="change" value="{!v.events}" action="{!c.loadEvents}"/>
-     -->
-
-     <aura:handler name="change" value="{!v.ScheduledEvents}" action="{!c.loadScheduledEvents}"/>
-
     <aura:attribute  name="modal" type="Aura.Component" />
     <aura:attribute name="addEventComponent" type="Aura.Component" />
-    <aura:attribute access="private" name="newEvent" type="Event" default="{}" description="New Event Item"  />
     <aura:attribute access="private" name="scheduledEvent" type="Object" default="{}"/>
+    <aura:attribute name="showDeleteButton" type="Boolean" default="{!false}" access="private"/>
+
+      <!-- DEPENDENCIES -->
     <aura:dependency resource="markup://c:addEvent" type="COMPONENT" />
     <aura:dependency resource="markup://c:toaster" type="COMPONENT" />
     <aura:dependency resource="markup://c:Spinner" type="COMPONENT" />
 
-    <aura:attribute name="showDeleteButton" type="Boolean" default="{!false}" access="private"/>
-
+    <!-- EVENTS -->
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
     <aura:registerEvent name="dayClickEvent" type="c:strike_evt"/>
     <aura:handler name="dayClickEvent" event="c:strike_evt" action="{!c.handledayClickEvent}"/>
     <aura:registerEvent name="eventClick" type="c:strike_evt"/>
