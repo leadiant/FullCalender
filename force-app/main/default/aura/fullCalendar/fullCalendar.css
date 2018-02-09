@@ -14,3 +14,11 @@
 .THIS .fc-icon {
     font-family: 'Salesforce Sans',Arial,sans-serif;
 }
+
+.THIS .left {
+    padding-right: 8px;
+}
+
+.THIS .right {
+    padding-left: 8px;
+}

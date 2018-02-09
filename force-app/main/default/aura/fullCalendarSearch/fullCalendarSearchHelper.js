@@ -49,7 +49,7 @@
 		$A.enqueueAction(action);
 	},
 	makeSearchResultsDraggable: function (cmp,hlp) {
-
+		console.log("makeSearchResultsDraggable");
 		var uniqueId = cmp.getGlobalId() + 'external-events';
 		$(document).ready(function(){
 

@@ -91,15 +91,15 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
             "isDirectory": false,
+            "size": 7946,
+            "modifiedTime": 1518208442966,
+            "changeTime": 1518208442966,
+            "contentHash": "45d435d19b772713e8e115ef328c6d9433ac31f7",
             "isMetadataFile": false,
-            "size": 4881,
-            "modifiedTime": 1518151287391,
-            "changeTime": 1518151287391,
-            "isWorkspace": false,
-            "contentHash": "7280e49f43c89ff2d9234047a1b77516d74292b0"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -120,15 +120,15 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.css",
             "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1518189996107,
+            "changeTime": 1518189996107,
+            "contentHash": "ed83730b74412199135935a082187b5b1a5f7148",
             "isMetadataFile": false,
-            "size": 370,
-            "modifiedTime": 1518151317495,
-            "changeTime": 1518151317495,
-            "isWorkspace": false,
-            "contentHash": "97b5cf73c92ae7eea11c695da5226135e7864785"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -164,15 +164,15 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
             "isDirectory": false,
-            "size": 7559,
-            "modifiedTime": 1518150237484,
-            "changeTime": 1518150237484,
-            "contentHash": "c8d2ca890a9b2080d3a49d620a2f8487e9bbfa78",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 10017,
+            "modifiedTime": 1518208653709,
+            "changeTime": 1518208653709,
+            "isWorkspace": false,
+            "contentHash": "1216b6f161eee3260ee44e46eca887435b3a278d"
         }
     ],
     [
@@ -180,10 +180,10 @@
         {
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarHelper.js",
             "isDirectory": false,
-            "size": 6563,
-            "modifiedTime": 1518148612482,
-            "changeTime": 1518148612482,
-            "contentHash": "d5f84163ffd63473e9ed2ed13f29fb3e4c9cd51a",
+            "size": 7688,
+            "modifiedTime": 1518206816124,
+            "changeTime": 1518206816124,
+            "contentHash": "3d3acb05ff647535f8b95c1273a4d21b9e7b557e",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -359,10 +359,10 @@
         {
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearch.cmp",
             "isDirectory": false,
-            "size": 2930,
-            "modifiedTime": 1518118750562,
-            "changeTime": 1518118750562,
-            "contentHash": "52c360215208543873509e656a616d39a76d2bda",
+            "size": 2700,
+            "modifiedTime": 1518190330272,
+            "changeTime": 1518190330272,
+            "contentHash": "26f64f124977de19ca3631e6faefab5c3e321a97",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -433,14 +433,13 @@
         {
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendarSearch\\fullCalendarSearchHelper.js",
             "isDirectory": false,
-            "size": 2908,
-            "modifiedTime": 1517884018840,
-            "changeTime": 1517884018840,
-            "contentHash": "36324111bf9ba8f2b950079c6607a5759c6504b5",
+            "size": 2952,
+            "modifiedTime": 1518202090386,
+            "changeTime": 1518202090386,
+            "contentHash": "446986ab21ec2e6fe1d63818d569a9a657be234f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1779,8 +1778,8 @@
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\strike_lookupController.cls",
             "isDirectory": false,
             "size": 10592,
-            "modifiedTime": 1517508464777,
-            "changeTime": 1517508670644,
+            "modifiedTime": 1518200727043,
+            "changeTime": 1518200727043,
             "contentHash": "761940abce528071c9ba65899b2316e0e31bee37",
             "isMetadataFile": false,
             "state": "u"
@@ -2012,10 +2011,10 @@
         {
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\classes\\fullCalendarApexController.cls",
             "isDirectory": false,
-            "size": 3806,
-            "modifiedTime": 1518125356793,
-            "changeTime": 1518125356793,
-            "contentHash": "46dbf72db5888215f1bd9b8f758c9a94bbc904c8",
+            "size": 4639,
+            "modifiedTime": 1518201387275,
+            "changeTime": 1518201387275,
+            "contentHash": "6b1057d077cc43425027d711a67ece212d7d5a06",
             "isMetadataFile": false,
             "state": "u"
         }

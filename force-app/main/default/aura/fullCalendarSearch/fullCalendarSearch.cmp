@@ -56,12 +56,7 @@
           </li>
         </aura:iteration>
       </ul>
-      <!-- <p>
-        <input type='checkbox' id='drop-remove' />
-        <label for='drop-remove'>remove after drop</label>
-      </p> -->
     </div>
-    <!-- <lightning:button variant="brand" label="Another Next" onclick="{!c.next}"/> -->
   </div>
 
 </aura:component>

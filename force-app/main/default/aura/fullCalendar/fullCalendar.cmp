@@ -36,6 +36,59 @@
     <aura:registerEvent name="eventResize" type="c:strike_evt"/>
     <aura:handler name="eventResize" event="c:strike_evt" action="{!c.handleEventResize}"/>
 
+    <aura:registerEvent name="drop" type="c:strike_evt"/>
+    <aura:handler name="drop" event="c:strike_evt" action="{!c.handleDrop}"/>
+
+    <aura:registerEvent name="eventReceive" type="c:strike_evt"/>
+    <aura:handler name="eventReceive" event="c:strike_evt" action="{!c.handleEventReceive}"/>
+
+
+    <aura:attribute name="searchTerm" type="String" />
+    <aura:attribute name="records" type="Object[]" description="List of records returned from the SOQL search" access="private"/>
+
+    <lightning:layout>
+        <lightning:layoutItem aura:id="leftColumn" size="4" class="left">
+
+                <div class="slds slds-box slds-m-around--small">
+                        <div class="slds-form-element slds-m-bottom--medium">
+                          <div class="slds-form-element__control slds-input-has-icon slds-input-has-icon--right">
+                            <lightning:icon iconName="utility:search" size="x-small" class="slds-input__icon slds-icon-text-default"/>
+                            <ui:inputText value="{!v.searchTerm}" class="slds-input" placeholder="Search" updateOn="keyup" keyup="{!c.getRecordsBySearchTerm}"/>
+                          </div>
+                        </div>
+                        <div aura:id="external-events" id="{!globalId + 'external-events'}">
+                          <ul>
+                              <li>
+                                <h3 class="slds-section-title--divider slds-m-vertical--small">
+                                  <div class="slds-grid slds-grid--vertical-align-center">
+                                    <div class="slds-col">
+                                      CONTACTS
+                                    </div>
+                                    <div class="slds-col slds-text-align--right">
+                                      <lightning:buttonIcon iconName="utility:add"
+                                        variant="bare"
+                                        title="Create new Contact"
+                                        alternativeText="Create new Contact"
+                                        onclick="{!c.createNewRecord}"
+                                        name="Contact"/>
+                                    </div>
+                                  </div>
+                                </h3>
+                                <aura:if isTrue="{!v.records.length > 0}">
+                                <ul class="slds-has-dividers--around-space">
+                                  <aura:iteration var="item" items="{!v.records}">
+                                    <li class="slds-item fc-event" data-sfid="{!item.value}">{!item.label}</li>
+                                  </aura:iteration>
+                                </ul>
+                                </aura:if>    
+                              </li>
+                          </ul>
+                        </div>
+                      </div>
+            
+        </lightning:layoutItem>
+        <lightning:layoutItem size="8" class="right">
+
 
     <div class="slds slds-box slds-m-around--small">
 
@@ -90,4 +143,6 @@
     </c:strike_modal>
     <c:toaster aura:id="toaster" />
     <c:Spinner aura:id="spinner" />
+</lightning:layoutItem>
+</lightning:layout>
 </aura:component>

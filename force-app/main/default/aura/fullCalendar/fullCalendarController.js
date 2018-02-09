@@ -141,9 +141,81 @@
 			}
 		});
 	},
+
+	handleDrop: function (cmp, evt, hlp) {
+		var droppedEvent = evt.getParam("data");
+		console.log(droppedEvent);
+		hlp.newEventInstance(cmp, droppedEvent.date);
+		/*var scheduledEvent = cmp.get("v.scheduledEvent");
+		scheduledEvent.contactId = 
+		var newModalBody = [
+			["c:addEvent", {
+				scheduledEvent: cmp.getReference("v.scheduledEvent")
+			}]
+		];
+		hlp.setModalBody(cmp, newModalBody);
+*/
+	},
+
+	handleEventReceive: function (cmp, evt, hlp) {
+		var droppedEvent = evt.getParam("data");
+		console.log(droppedEvent);
+		cmp.set("v.showDeleteButton", false);
+		var scheduledEvent = cmp.get("v.scheduledEvent");
+		scheduledEvent.contactId = droppedEvent.contactId;
+		var newModalBody = [
+			["c:addEvent", {
+				scheduledEvent: cmp.getReference("v.scheduledEvent")
+			}]
+		];
+		hlp.setModalBody(cmp, newModalBody);
+	},
+	getRecordsBySearchTerm: function(component, event, helper) {
+		console.log("getRecordsBySearchTerm");
+		var searchTerm = component.get("v.searchTerm");
+		var getRecordsAction = component.get('c.getContacts');
+
+
+            getRecordsAction.setParams({
+                jsonString: JSON.stringify({
+					searchTerm: searchTerm
+				})
+			});
+
+			console.log(JSON.stringify({
+				searchTerm: searchTerm
+			}));
+			
+			getRecordsAction.setCallback(this, function(res) {
+                if (res.getState() === 'SUCCESS') {
+                    var returnValue = JSON.parse(res.getReturnValue());
+
+                    if (returnValue.isSuccess && returnValue.results.searchTerm === searchTerm) {
+                        var returnedRecords = [];
+
+                        returnValue.results.data.forEach(function(record) {
+                            returnedRecords.push({
+                                label: record.label,
+                                sublabel: record.sublabel,
+                                value: record.value
+                            });
+                        });
+						component.set('v.records', returnedRecords);
+						console.log(component.get("v.records"));
+						helper.makeSearchResultsDraggable(component,helper);
+                    }
+                } else {
+                    //helper.setRecords(component, event, helper, []);
+                }
+            });
+
+            $A.enqueueAction(getRecordsAction);
+	},
+
 	jsLoaded: function (cmp, evt, hlp) {
 		// Fetch events and load in calendar
 		hlp.getScheduledEvents(cmp);
+		hlp.makeSearchResultsDraggable(cmp,hlp);
 		$(document).ready(function () {
 			$('#calendar').fullCalendar({
 				header: false,
@@ -168,13 +240,18 @@
 					},
 
 				drop: function (date, jsEvent, ui, resourceId) {
-					console.log('an event has been dropped!');
-					hlp.helperMethod();
-					// // is the "remove after drop" checkbox checked?
-					// if ($('#drop-remove').is(':checked')) {
-					// 	// if so, remove the element from the "Draggable Events" list
-					// 	$(this).remove();
-					// }
+					$A.getCallback(
+						function () {
+							var messageEvent = cmp.getEvent("drop");
+							messageEvent.setParams({
+								"data": {
+									"jsEvent": jsEvent,
+									"date": date
+								}
+							});
+							messageEvent.fire()
+						}
+					)();
 				},
 				eventClick: function (calEvent, jsEvent, view) {
 					$A.getCallback(
@@ -217,11 +294,13 @@
 					)();
 				},
 				eventReceive: function (event) {
-					console.log('event received', event);
-					var sObject = hlp.eventToSObject(event);
-					sObject.WhatId = sObject.Id;
-					sObject.Id = null;
-					hlp.updateEvents(cmp, [sObject]);
+					$A.getCallback(
+						function () {
+							var messageEvent = cmp.getEvent("eventReceive");
+							messageEvent.setParam("data", event);
+							messageEvent.fire()
+						}
+					)();
 				}
 			});
 
@@ -229,6 +308,9 @@
 		});
 	},
 	handleClickCancelModal: function (component, event, helper) {
-        component.get("v.modal").hide();
+		var ScheduledEvents = component.get("v.ScheduledEvents");
+		$('#calendar').fullCalendar('removeEvents');
+		$('#calendar').fullCalendar('addEventSource', ScheduledEvents);
+		component.get("v.modal").hide();
     },
 })

@@ -14,9 +14,7 @@ public class fullCalendarApexController {
         public DateTime  startString  {get;set;}
         @AuraEnabled
         public DateTime  endString  {get;set;}
-/*        @AuraEnabled
-        public String url {get;set;}
-  */      @AuraEnabled
+        @AuraEnabled
         public String contactId {get;set;}
 
     @AuraEnabled
@@ -26,15 +24,9 @@ public class fullCalendarApexController {
             Id = event.id;
             title = event.Subject;
             allDay = event.IsAllDayEvent;
-
-/*            startString = event.StartDateTime.format(dtFormat);
-            endString = event.EndDateTime.format(dtFormat);
-*/
             startString = event.StartDateTime;
             endString = event.EndDateTime;
             description = event.Description;
-
-        //    url = '/' + event.Id;
             contactId = event.WhoId;
         }
         
@@ -43,10 +35,6 @@ public class fullCalendarApexController {
                 Id = this.Id,
                 Subject = this.title,
                 IsAllDayEvent = this.allDay,
-
-/*                StartDateTime = Datetime.parse(this.startString),
-                EndDateTime = Datetime.parse(this.endString),
-*/
                 StartDateTime = this.startString,
                 EndDateTime = this.endString,
                 Description = this.description,
@@ -79,6 +67,39 @@ public class fullCalendarApexController {
         jsonResponse = jsonResponse.replace('endString','end');
         return jsonResponse;
     }
+
+    @AuraEnabled
+    public static string getContacts(String jsonString){
+        strike_responseData responseData = new strike_responseData();
+        List<Map<String, Object>> data = new List<Map<String, Object>>();
+        String query;
+
+        try {
+            Map<String, Object> jsonMap = (Map<String, Object>)JSON.deserializeUntyped(jsonString);
+            String searchTerm = String.escapeSingleQuotes((String)jsonMap.get('searchTerm'));
+            query = 'SELECT Id, Account.Name, contact.Name from Contact where Name' + ' LIKE \'%' + searchTerm + '%\'';
+            system.debug(query);
+            for (Contact obj : Database.query(query)) {
+                data.add(new Map<String, Object>{
+                    'label' => obj.Name,
+                    'sublabel' => obj.Account.Name,
+                    'value' => obj.get('Id')
+                });
+            }
+
+          responseData.results = new Map<String, Object>{
+                    'data' => data,
+                    'searchTerm' => searchTerm
+          };
+
+        } catch (Exception e) {
+            responseData.addError(e.getMessage());
+        }
+        
+        return responseData.getJsonString();
+    }
+
+    
 
     @AuraEnabled
     public static string upsertEvent(String jsonString){
