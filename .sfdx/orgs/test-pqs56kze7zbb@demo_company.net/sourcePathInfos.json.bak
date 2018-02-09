@@ -169,11 +169,11 @@
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 7317,
-            "modifiedTime": 1518149262739,
-            "changeTime": 1518149262739,
+            "size": 7245,
+            "modifiedTime": 1518149485407,
+            "changeTime": 1518149485409,
             "isWorkspace": false,
-            "contentHash": "3cc6be6bfe0f73e0d7685994c6997166cd254e23"
+            "contentHash": "214b0bd8e2fe66c9679c04f19b9e161500fbb3e2"
         }
     ],
     [

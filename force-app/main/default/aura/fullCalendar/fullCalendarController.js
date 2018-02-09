@@ -127,7 +127,20 @@
 			}
 		});
 	},
-
+	handleEventResize: function (cmp, evt, hlp) {
+		var resizedEvent = evt.getParam("data");
+		console.log(resizedEvent);
+		var ScheduledEvents = cmp.get("v.ScheduledEvents");
+		ScheduledEvents.forEach(function (ScheduledEvent) {
+			if (ScheduledEvent.Id === resizedEvent.event.Id) {
+				ScheduledEvent.start = moment(resizedEvent.event.start._i).format();
+				ScheduledEvent.end = moment(resizedEvent.event.end._i).format();
+				console.log(ScheduledEvent);
+				cmp.set("v.scheduledEvent", ScheduledEvent);
+				hlp.saveEvent(cmp, evt, hlp);
+			}
+		});
+	},
 	jsLoaded: function (cmp, evt, hlp) {
 		// Fetch events and load in calendar
 		hlp.getScheduledEvents(cmp);
@@ -176,7 +189,6 @@
 					$(this).css('border-color', 'red');
 				},
 				eventDrop: function (event, delta, revertFunc) {
-
 					$A.getCallback(
 						function () {
 							var messageEvent = cmp.getEvent("eventDrop");
@@ -189,24 +201,20 @@
 							messageEvent.fire();
 						}
 					)();
-
-
-/*					console.log(event.title + " was dropped on " + event.start.format());
-					if (!confirm("Are you sure about this change?")) {
-						revertFunc();
-					} else {
-						var sObject = hlp.eventToSObject(event);
-						hlp.updateEvents(cmp, [sObject]);
-					}*/
 				},
 				eventResize: function (event, delta, revertFunc) {
-					console.log(event.title + " end is now " + event.end.format());
-					if (!confirm("is this okay?")) {
-						revertFunc();
-					} else {
-						var sObject = hlp.eventToSObject(event);
-						hlp.updateEvents(cmp, [sObject]);
-					}
+					$A.getCallback(
+						function () {
+							var messageEvent = cmp.getEvent("eventResize");
+							messageEvent.setParams({
+								"data": {
+									"event": event,
+									"delta": delta
+								}
+							});
+							messageEvent.fire();
+						}
+					)();
 				},
 				eventReceive: function (event) {
 					console.log('event received', event);

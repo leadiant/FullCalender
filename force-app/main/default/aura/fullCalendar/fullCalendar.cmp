@@ -30,11 +30,13 @@
     <aura:handler name="dayClickEvent" event="c:strike_evt" action="{!c.handledayClickEvent}"/>
     <aura:registerEvent name="eventClick" type="c:strike_evt"/>
     <aura:handler name="eventClick" event="c:strike_evt" action="{!c.handleEventClick}"/>
-
     <aura:registerEvent name="eventDrop" type="c:strike_evt"/>
     <aura:handler name="eventDrop" event="c:strike_evt" action="{!c.handleEventDrop}"/>
 
-    <!-- BODY -->
+    <aura:registerEvent name="eventResize" type="c:strike_evt"/>
+    <aura:handler name="eventResize" event="c:strike_evt" action="{!c.handleEventResize}"/>
+
+
     <div class="slds slds-box slds-m-around--small">
 
       <div class="slds-grid slds-wrap">
