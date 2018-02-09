@@ -95,11 +95,11 @@
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 4861,
-            "modifiedTime": 1518150110430,
-            "changeTime": 1518150110430,
+            "size": 4881,
+            "modifiedTime": 1518151287391,
+            "changeTime": 1518151287391,
             "isWorkspace": false,
-            "contentHash": "31963d3b2c35377caae5713e3e4029088678b4e2"
+            "contentHash": "7280e49f43c89ff2d9234047a1b77516d74292b0"
         }
     ],
     [
@@ -120,16 +120,15 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendar.css",
             "isDirectory": false,
-            "size": 9,
-            "modifiedTime": 1517884018787,
-            "changeTime": 1517884018787,
-            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 370,
+            "modifiedTime": 1518151317495,
+            "changeTime": 1518151317495,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "97b5cf73c92ae7eea11c695da5226135e7864785"
         }
     ],
     [
@@ -165,15 +164,15 @@
     [
         "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\madhuv\\Documents\\Salesforce_Workspaces\\FullCalender\\force-app\\main\\default\\aura\\fullCalendar\\fullCalendarController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 7559,
             "modifiedTime": 1518150237484,
             "changeTime": 1518150237484,
-            "isWorkspace": false,
-            "contentHash": "c8d2ca890a9b2080d3a49d620a2f8487e9bbfa78"
+            "contentHash": "c8d2ca890a9b2080d3a49d620a2f8487e9bbfa78",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
